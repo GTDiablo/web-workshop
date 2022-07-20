@@ -36,4 +36,12 @@ Vite-t, a VueJs készítője találta ki és fejleszti. Vite több framework-t �
 **Telepítése:** Nem szükséges telepíteni. Elég majd a jövőben a `yarn create vite` parancsot kiadni és létrehozni a projektet a vite kliensével.
 
 ## Vs Code kiegészítők
+
+- ES7+ React/Redux/React-Native snippets
+- styled-components-snippets
+- Rainbow Brackets
+- Emmet
+- Auto Import
+- Auto Close Tag
+
 ## React projekt kezdete

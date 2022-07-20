@@ -29,5 +29,11 @@ Dokumentáció és tobábbi érdekességek elérhető itt: [https://yarnpkg.com/
 **Telepítés:** `npm install --global yarn`
 
 ## Vite
+Vite egy Webpack-hez hasonló javascript build system, azzal a hatalmas nagy külömséggel, hogy míg a webpack minden (lefordított) javascript kódot egy nagy "bundle"-be fűz össze, ami viszonylag rengeteg időt vesz igénybe fejlesztés és fordítás során, addig vite csak azokat a kód részleteket fordítja le amiket a route vagy komponens megkövetel. Javascript helyett Rust-ban írodott, ami majdnem ugyanolyan gyors mint a sima C. Vite-l fel lehet gyorsítani a fejlesztési időt, és rengeteget ad a fejlesztési élményhez.
+
+Vite-t, a VueJs készítője találta ki és fejleszti. Vite több framework-t és template-t támogat, de akár magában is lehet használni statikus fájlok generálásához.
+
+**Telepítése:** Nem szükséges telepíteni. Elég majd a jövőben a `yarn create vite` parancsot kiadni és létrehozni a projektet a vite kliensével.
+
 ## Vs Code kiegészítők
 ## React projekt kezdete

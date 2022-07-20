@@ -33,6 +33,8 @@ Vite egy Webpack-hez hasonló javascript build system, azzal a hatalmas nagy kü
 
 Vite-t, a VueJs készítője találta ki és fejleszti. Vite több framework-t és template-t támogat, de akár magában is lehet használni statikus fájlok generálásához.
 
+**Dokumentáció és Érdekességek:** [https://vitejs.dev/](https://vitejs.dev/)
+
 **Telepítése:** Nem szükséges telepíteni. Elég majd a jövőben a `yarn create vite` parancsot kiadni és létrehozni a projektet a vite kliensével.
 
 ## Vs Code kiegészítők

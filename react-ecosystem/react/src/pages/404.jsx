@@ -1,17 +1,9 @@
-import { memo, useEffect } from "react"
-import { useNavigate } from "react-router-dom";
+import { memo } from "react"
 
-const NotFoundPage = () => {
-
-    // useEffect(()=> {
-    //     setTimeout(()=> {
-    //         useNavigate('/');
-    //     }, 3000);
-    // }, []);
-
+export const Page404 = () => {
     return (
-        <h1>Page not found (404)</h1>
+        <h1>Page404</h1>
     )
 }
 
-export default memo(NotFoundPage);
+export default memo(Page404);

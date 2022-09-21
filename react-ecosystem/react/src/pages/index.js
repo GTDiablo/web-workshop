@@ -1,15 +1,13 @@
-import NotFoundPage from './404';
-import TodoListPage from './todosListPage';
-import WelcomePage from './welcomePage';
-import BooksPage from './booksPage';
-import BooksDetailPage from './booksDetailPage';
-import NewBookPage from './newBookPage';
+import BookDetail from './book-detail'
+import BookList from './book-list'
+import BookNew from './book-new'
+import Page404 from './404';
+import Welcome from './welcome'
 
 export {
-    NotFoundPage,
-    TodoListPage,
-    WelcomePage,
-    BooksDetailPage,
-    BooksPage,
-    NewBookPage
+    BookDetail,
+    BookList,
+    BookNew,
+    Page404,
+    Welcome
 }

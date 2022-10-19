@@ -1,0 +1,33 @@
+{
+    "welcomePage": {
+        "welcomeMessage": "Üdvözöllek {{name}}",
+        "loginForm": {
+            "username": "Felhasználónév:",
+            "password": "Jelszó:"
+        }
+    },
+    "navbar": {
+        "home": "Kezdőlap",
+        "bookList": "Könyv Lista",
+        "createNewBook": "Új Könyv"
+    },
+    "ui": {
+        "langs": {
+            "hu": "Magyar",
+            "en": "Angol"
+        },
+        "language": "Nyelv"
+    },
+    "topBar": {
+        "loggedInAs": "Jelenleg ezzel vagy bejelentkezve: {{name}}"
+    },
+    "bookList": {
+        "title": "Könyv lista"
+    },
+    "bookDetail": {
+        "title": "Könyv címe:",
+        "author": "Könyv írója:",
+        "numberOfPages": "Oldalak száma:",
+        "publishedAt": "Kiadás dátuma:"
+    }
+}

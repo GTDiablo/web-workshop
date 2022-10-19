@@ -11,7 +11,7 @@ export const book1 = {
     title: 'Matematika alapjai',
     author: 'Nagy János',
     numberOfPages: 99,
-    created: new Date('2000-10-09')
+    created: '2000-10-09'
 }
 
 export const book2 = {
@@ -19,7 +19,7 @@ export const book2 = {
     title: 'Egri Csillagok',
     author: 'Nagy Ki?',
     numberOfPages: 300,
-    created: new Date('2012-05-05')
+    created: '2012-05-05'
 }
 
 export const book3 = {
@@ -27,5 +27,5 @@ export const book3 = {
     title: 'A Nagy Mese Könyv',
     author: 'Mr. Sandman',
     numberOfPages: 1000,
-    created: new Date('2020-01-20')
+    created: '2012-05-05'
 }

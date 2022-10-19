@@ -1,0 +1,30 @@
+{
+    "welcomePage": {
+        "welcomeMessage": "Welcome {{name}}",
+        "loginForm": {
+            "username": "Username:",
+            "password": "Password:"
+        }
+    },
+    "navbar": {
+        "home": "Home",
+        "bookList": "Book List",
+        "createNewBook": "Create New Book"
+    },
+    "ui": {
+        "langs": {
+            "hu": "Hungarian",
+            "en": "English"
+        },
+        "language": "Language"
+    },
+    "bookList": {
+        "title": "Book List"
+    },
+    "bookDetail": {
+        "title": "Book title:",
+        "author": "Author of the book:",
+        "numberOfPages": "Number of pages:",
+        "publishedAt": "Published at:"
+    }
+}

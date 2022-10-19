@@ -1,4 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
+//
 import { book1, book2, book3 } from "./books.mocks";
 
 export const BOOK_FEATURE_KEY = 'books';
@@ -14,7 +15,7 @@ export const booksSlice = createSlice({
     initialState,
     reducers: {
         addNewBook(state, action) {
-
+            state.books.push(action.payload);
         }
     },
     extraReducers: {}

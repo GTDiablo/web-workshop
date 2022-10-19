@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
 
 export default {
-    title: 'Navbar',
+    title: 'Layouts/Navbar',
     component: Navbar
 }
 
